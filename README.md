@@ -1,13 +1,13 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif)
 
 <h1 align="center">Hi 👋, I'm Anushka Chougule</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst and Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkac24&label=Profile%20views&color=0e75b6&style=flat" alt="anushkac24" /> </p>
 
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **Data Analytics and Software**
 
 - 📫 How to reach me **chouguleanushka24@gmail.com**
 
