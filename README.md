@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkac24&label=Profile%20views&color=0e75b6&style=flat" alt="anushkac24" /> </p>
 
-- 💬 Ask me about **Data Analytics and Software**
+- 💬 Ask me about **Software and Data Analytics**
 
 - 📫 How to reach me **chouguleanushka24@gmail.com**
 
@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/anushka-chougule-894907241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-chougule-894907241" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chouguleanushka2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chouguleanushka2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/24anushkac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="24anushkac" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/chouguleaqi1z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chouguleaqi1z" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="24anushkac" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chouguleaqi1z" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
